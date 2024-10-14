@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: 刘昕彤课题组  Xiao Research Group
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 你好 Home
     link: /
   - title: 科研项目 Research
     link: /research.html
